@@ -21,7 +21,7 @@ On this challenge we created a logo-maker that takes in user input to generate a
  
 😄 Please see below a quick view of the deployed application 😄 
 
-
+<img width="1440" alt="Screen Shot 2023-06-28 at 1 41 28 PM" src="https://github.com/HeiRiv/Logo-maker/assets/128196586/b59b11de-d0da-413b-9980-05570b7613c8">
 
 - This is the link for the webpage to view on more detail: 
 
